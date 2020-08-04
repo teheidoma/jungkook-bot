@@ -55,5 +55,16 @@ chars = {
         'images': [
             'https://media1.tenor.com/images/567a03b4c9f4572b58b479c13ef854b6/tenor.gif?itemid=15620009'
         ]
+    },
+    'kokichi': {
+        'color': 0x3b0b91,
+        'title': u'cockichi',
+        'images': [
+            'https://images.discordapp.net/avatars/680548223513002206/4ff0bb5497054bad3f86702788894177.png?size=512',
+            "https://i.pinimg.com/originals/b0/a2/2a/b0a22a1d3ca7242a5af17a3b20a63b4c.jpg",
+            "https://i.siteapi.org/zF1R8gUPS3jxAZxfCD1aw288xzM=/fit-in/330x/top/filters:watermark(f2a114360252916.ru.s.siteapi.org/watermark/mzeppc7uppw888ogos88sog0gs8gkg,-1,-1,0,15,none)/f2a114360252916.ru.s.siteapi.org/img/il70ugtd29kwwcc44s0g8osw4cw8g4",
+            "https://a.wattpad.com/cover/166803170-288-k391388.jpg",
+            "https://pbs.twimg.com/media/Ed_ffS8UYAA-cou?format=jpg&name=large"
+        ]
     }
 }
