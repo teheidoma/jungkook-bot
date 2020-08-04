@@ -66,5 +66,16 @@ chars = {
             "https://a.wattpad.com/cover/166803170-288-k391388.jpg",
             "https://pbs.twimg.com/media/Ed_ffS8UYAA-cou?format=jpg&name=large"
         ]
+    },
+    'olivia': {
+        'color': 0x3b0b91,
+        'title': u'моя девочка 🥺',
+        'images': [
+            'https://kprofiles.com/wp-content/uploads/2018/05/0A91F533-2B22-4F81-93C4-243EA1FA4243.jpeg',
+            'https://thumbs.gfycat.com/CanineSomberAfricanharrierhawk-mobile.jpg',
+            'https://pm1.narvii.com/7163/6df5981aaece51ac38dd50baa2c28efde7e6f15dr1-1024-1014v2_uhq.jpg',
+            'https://lh3.googleusercontent.com/proxy/dgKAP4MoUijCyRcK4xTaHL7NRef0GgAM7DX_QN6fjAAMjgTomH7Hz8MEeo9Uj2DeABXVHLNkb_aRO56uBSPYHtNAv1VEvIK748oJ8VfepJ7H',
+            'https://i.ytimg.com/vi/J5sijTcWBqk/maxresdefault.jpg'
+        ]
     }
 }
