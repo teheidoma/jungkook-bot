@@ -77,5 +77,21 @@ chars = {
             'https://lh3.googleusercontent.com/proxy/dgKAP4MoUijCyRcK4xTaHL7NRef0GgAM7DX_QN6fjAAMjgTomH7Hz8MEeo9Uj2DeABXVHLNkb_aRO56uBSPYHtNAv1VEvIK748oJ8VfepJ7H',
             'https://i.ytimg.com/vi/J5sijTcWBqk/maxresdefault.jpg'
         ]
+    },
+    'rantaro': {
+        'color': 0xC6CF9A,
+        'title': u'авокадо-боии 🥑🥑',
+        'images': [
+            'https://vignette.wikia.nocookie.net/danganronpa/images/a/a6/Danganronpa_V3_Rantaro_Amami_Halfbody_Sprite_%2811%29.png/revision/latest/top-crop/width/300/height/300?cb=20180429103905',
+            'https://vignette.wikia.nocookie.net/danganronpa/images/b/b3/Rantarou_Rantaro_Amami_Illustration.png/revision/latest?cb=20170425143131',
+            'https://a.wattpad.com/cover/181484224-352-k606809.jpg',
+            'https://pbs.twimg.com/profile_images/985880479554527232/4AgEXWpj_400x400.jpg',
+            'https://pbs.twimg.com/profile_images/1069997139625947138/9K7f_qex_400x400.jpg',
+            'https://i.redd.it/jc7wm98nnra21.png',
+            'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSeDjEGAeKdezL820Eflveg-lvBppzGo4T__Q&usqp=CAU',
+            'https://pbs.twimg.com/profile_images/1015361371196645376/7UB9G7dS_400x400.jpg',
+            'https://images3.alphacoders.com/913/thumb-1920-913897.png',
+            'https://www.kindpng.com/picc/m/504-5041581_here-have-an-avocado-boi-dabbing-transparent-rantaro.png'
+        ]
     }
 }
