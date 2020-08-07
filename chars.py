@@ -93,5 +93,24 @@ chars = {
             'https://images3.alphacoders.com/913/thumb-1920-913897.png',
             'https://www.kindpng.com/picc/m/504-5041581_here-have-an-avocado-boi-dabbing-transparent-rantaro.png'
         ]
+    },
+    'shuichi': {
+        'color': 0x030B54,
+        'title': u'🔎🔎 s u c c i 🔍🔍 ',
+        'images':[
+            'https://i.pinimg.com/originals/5e/f8/45/5ef845c01386fdfaf7369bb54bb8f53b.jpg',
+            'https://avatars.mds.yandex.net/get-pdb/2796516/0c92d0fe-c5c3-4fa6-9e43-0ec25dffea0d/s375',
+            'https://www.pngkit.com/png/detail/322-3220696_ultimate-assassin-shuichi-shuichi-saihara-sprite-edit.png',
+            'https://ih0.redbubble.net/image.418155225.8796/drawstring_bag,x1404-bg,f8f8f8.u7.jpg',
+            'https://pm1.narvii.com/6977/8e36c38c1cd3dcece9ba287ca2cfe3a9d17b2c33r1-1003-1417v2_uhq.jpg',
+            'https://i.etsystatic.com/19809075/r/il/2210e5/2037071692/il_570xN.2037071692_qwil.jpg',
+            'https://www.vhv.rs/dpng/d/446-4465916_shuichi-saihara-hd-png-download.png',
+            'https://www.meme-arsenal.com/memes/04092cc5597bbaa7aa95753e01117652.jpg',
+            'https://ctl.s6img.com/society6/img/0_K9vlphDgHHofpyaOxg8bPSOzY/w_700/posters/18x24/front/~artwork,fw_2718,fh_3618,fx_-945,iw_4608,ih_3618/s6-original-art-uploads/society6/uploads/misc/fea55aba6cbc40e3bd1ccb5d36f994d6/~~/shuichi-saihara-posters.jpg',
+            'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQByaTWXpujnIIyjZNqppi9cMAtnTac2HRIIQ&usqp=CAU',
+            'https://www.nicepng.com/png/detail/826-8269283_no-context-submission-killing-harmony-shuichi-saihara-saihara.png',
+            'https://i.pinimg.com/474x/58/29/2f/58292f7c94f4f5c5c829aa0b0303ecfd.jpg',
+            'https://avatars.mds.yandex.net/get-pdb/2863160/95b3e37a-a7f5-45b2-8773-db34b365eb71/s375'
+        ]
     }
 }
