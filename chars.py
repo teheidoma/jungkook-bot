@@ -78,7 +78,7 @@ chars = {
             'https://i.ytimg.com/vi/J5sijTcWBqk/maxresdefault.jpg'
         ]
     },
-    'rantaro': {
+    'racoon': {
         'color': 0xC6CF9A,
         'title': u'авокадо-боии 🥑🥑',
         'images': [
@@ -110,7 +110,8 @@ chars = {
             'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQByaTWXpujnIIyjZNqppi9cMAtnTac2HRIIQ&usqp=CAU',
             'https://www.nicepng.com/png/detail/826-8269283_no-context-submission-killing-harmony-shuichi-saihara-saihara.png',
             'https://i.pinimg.com/474x/58/29/2f/58292f7c94f4f5c5c829aa0b0303ecfd.jpg',
-            'https://avatars.mds.yandex.net/get-pdb/2863160/95b3e37a-a7f5-45b2-8773-db34b365eb71/s375'
+            'https://avatars.mds.yandex.net/get-pdb/2863160/95b3e37a-a7f5-45b2-8773-db34b365eb71/s375',
+            'https://media.discordapp.net/attachments/699197200596467724/741300433095622724/s1vp8cfaial41.png'
         ]
     }
 }
