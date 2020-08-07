@@ -56,7 +56,7 @@ chars = {
             'https://media1.tenor.com/images/567a03b4c9f4572b58b479c13ef854b6/tenor.gif?itemid=15620009'
         ]
     },
-    'kokichi': {
+    'racoon': {
         'color': 0x3b0b91,
         'title': u'cockichi',
         'images': [
@@ -78,7 +78,7 @@ chars = {
             'https://i.ytimg.com/vi/J5sijTcWBqk/maxresdefault.jpg'
         ]
     },
-    'racoon': {
+    'rantaro': {
         'color': 0xC6CF9A,
         'title': u'авокадо-боии 🥑🥑',
         'images': [
