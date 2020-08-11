@@ -118,7 +118,7 @@ chars = {
     'oikawa': {
         'color': 0xececec,
         'title': '👑👆 А.У.Ф.',
-        'images': {
+        'images': [
             'https://vignette.wikia.nocookie.net/haikyuu/images/a/aa/Oikawa.jpg/revision/latest?cb=20160327145418&path-prefix=ru',
             'https://vignette.wikia.nocookie.net/haikyuu/images/1/1f/S12001.jpg/revision/latest/scale-to-width-down/340?cb=20200517195308&path-prefix=ru',
             'https://pbs.twimg.com/profile_images/701874120330518528/b_QapjT9_400x400.jpg',
@@ -128,6 +128,6 @@ chars = {
             'https://pa1.narvii.com/6542/ec60415ecf5cdc5c1061166aaf33897e1ea396e9_00.gif',
             'https://pa1.narvii.com/6500/593b87cbc72ca7309f94ae692e9f9df01d855d65_hq.gif',
             'https://pa1.narvii.com/6427/3db56df4e6d7ce4a6af1fbb8901e12ed0dfd062b_hq.gif'
-        }
+        ]
     }
 }
