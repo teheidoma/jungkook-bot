@@ -115,9 +115,9 @@ chars = {
             'https://media.discordapp.net/attachments/699197200596467724/741300433095622724/s1vp8cfaial41.png'
         ]
     },
-    'kageyama': {
-        'color': 0xececec
-        'title': 👑👆 А.У.Ф.
+    'oikawa': {
+        'color': 0xececec,
+        'title': '👑👆 А.У.Ф.',
         'images': {
             'https://vignette.wikia.nocookie.net/haikyuu/images/a/aa/Oikawa.jpg/revision/latest?cb=20160327145418&path-prefix=ru',
             'https://vignette.wikia.nocookie.net/haikyuu/images/1/1f/S12001.jpg/revision/latest/scale-to-width-down/340?cb=20200517195308&path-prefix=ru',
