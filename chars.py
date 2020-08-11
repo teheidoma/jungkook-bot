@@ -53,7 +53,8 @@ chars = {
         'color': 0x00FF9F,
         'title': u'жопа с ручкой',
         'images': [
-            'https://media1.tenor.com/images/567a03b4c9f4572b58b479c13ef854b6/tenor.gif?itemid=15620009'
+            'https://media1.tenor.com/images/567a03b4c9f4572b58b479c13ef854b6/tenor.gif?itemid=15620009',
+            'https://tenor.com/view/noice-distort-gif-12761100'
         ]
     },
     'racoon': {
@@ -113,5 +114,20 @@ chars = {
             'https://avatars.mds.yandex.net/get-pdb/2863160/95b3e37a-a7f5-45b2-8773-db34b365eb71/s375',
             'https://media.discordapp.net/attachments/699197200596467724/741300433095622724/s1vp8cfaial41.png'
         ]
+    },
+    'kageyama': {
+        'color': 0xececec
+        'title': 👑👆 А.У.Ф.
+        'images': {
+            'https://vignette.wikia.nocookie.net/haikyuu/images/a/aa/Oikawa.jpg/revision/latest?cb=20160327145418&path-prefix=ru',
+            'https://vignette.wikia.nocookie.net/haikyuu/images/1/1f/S12001.jpg/revision/latest/scale-to-width-down/340?cb=20200517195308&path-prefix=ru',
+            'https://pbs.twimg.com/profile_images/701874120330518528/b_QapjT9_400x400.jpg',
+            'https://shikimori.one/system/characters/original/71611.jpg',
+            'https://pm1.narvii.com/6736/652230f276341e2876f9f0f41aec3bb0776ba7d6v2_00.jpg',
+            'https://pbs.twimg.com/media/DUxXHDtWsAAwrUr.jpg',
+            'https://pa1.narvii.com/6542/ec60415ecf5cdc5c1061166aaf33897e1ea396e9_00.gif',
+            'https://pa1.narvii.com/6500/593b87cbc72ca7309f94ae692e9f9df01d855d65_hq.gif',
+            'https://pa1.narvii.com/6427/3db56df4e6d7ce4a6af1fbb8901e12ed0dfd062b_hq.gif'
+        }
     }
 }
